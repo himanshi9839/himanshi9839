@@ -1,7 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Himanshi Gupta
+### A passionate Software Engineer from India.
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/1d4addd0-aefe-4851-8bd2-42506c2868f5"/>
+</p>
 
+- 📝 Check out : <a href="https://drive.google.com/file/d/18DtUUIlpms5sz3dLB4r9lZ4c645zVo-a/view?usp=drive_link" target="_blank">My Resume</a>
+- 💬 Ask me about : Front-end Development and Angular                                       
+- 📫 How to reach me : <a href="https://www.linkedin.com/in/himanshigupta9839/" target="_blank">Linkedin</a>
+- 😄 Pronouns : She/Her
 <!--
-**himanshi9839/himanshi9839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**a2gupta/a2gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
